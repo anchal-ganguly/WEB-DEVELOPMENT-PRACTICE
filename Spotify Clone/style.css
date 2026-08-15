@@ -189,12 +189,10 @@ a{
 }
 .player{
   width: 50%;
-  /* background-color:orange; */
   
 }
 .controls{
   width: 25%;
-  /* background-color:green; */
 }
 .player-controls{
  display:flex;
@@ -261,14 +259,6 @@ a{
     opacity: 0.7;
     margin: 0;
 }
-/* .line-p1{
-  font-size: 0.85rem; 
-  font-weight: 600;
-}
-.line-p2{
-  font-size:0.75rem;
-  opacity: 0.9;
-} */
 .album-icon{
   display:flex;
   justify-content:right;
@@ -284,7 +274,6 @@ a{
   background-color:#ddd;
   border-radius: 100px;
   height: 0.2rem;
-  /* margin-top: -6px */
 }
 .volume-bar::-webkit-slider-thumb{
   appearance: none;
